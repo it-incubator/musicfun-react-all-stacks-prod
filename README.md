@@ -1,6 +1,5 @@
 [Figma](https://www.figma.com/design/AxTPd4AS8oAgdEF4dDgLis/MusicFun?node-id=9-353&p=f&t=I0svXbRE8kPWOUFB-0) • [ApiHub](https://apihub.it-incubator.io/en) • [Swagger](https://musicfun.it-incubator.app/api)
 
-
 # 🚀 Project Launch
 
 Information on launching projects can be found in the `README.md` of each individual repository.
@@ -52,25 +51,25 @@ pnpm build:sdk:simple
 
 ### 3. Starting the Project
 
-- 🎶musicfun на **tanstack**
+- 🎶 MusicFun with **TanStack**
 
 ```bash
    pnpm start:musicfun-tanstack
 ```
 
-- 🎶musicfun на **rtk-query**
+- 🎶 MusicFun with **RTK Query**
 
 ```bash
     pnpm start:musicfun-rtk
 ```
 
-- 🎶musicfun на **nextjs**
+- 🎶 MusicFun on **Next.js** 
 
 ```bash
      pnpm start:musicfun-nextjs
 ```
 
-## ✅ Рекомендованные форматы нейминга файлов в React/TypeScript проектах
+## ✅ Recommended naming formats for files in React/TypeScript projects
 
 | Category              | Recommended Format | Example                               |
 | --------------------- | ------------------ | ------------------------------------- |
